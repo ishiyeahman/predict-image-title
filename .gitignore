@@ -1,3 +1,5 @@
 *pycache*
 images/*
 *.jpg
+__*
+models
